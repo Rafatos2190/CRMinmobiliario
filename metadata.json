@@ -1,0 +1,6 @@
+{
+  "name": "CRM Inmobiliario AI",
+  "description": "Un CRM inmobiliario moderno con inteligencia artificial para la generación de descripciones y asistencia en comunicación, incluyendo la facilidad de enviar mensajes por WhatsApp.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
